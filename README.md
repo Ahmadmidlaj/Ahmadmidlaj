@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ahmad Midlaj<br>🎓 Final Year Computer Science & Engineering Student<br>💡 Passionate about building innovative solutions<br>🌐 Front-end: React.js, Back-end: Java<br>📚 Constantly learning and exploring new technologies<br>🌟 Open source enthusiast<br>🎯 Aiming to make a positive impact through code<br>
+👋 Hi, I'm Ahmad Midlaj<br>🎓 Final Year Computer Science & Engineering Student<br>💡 Passionate about building innovative solutions<br>🌐 Next JS, React JS Developer<br>📚 Constantly learning and exploring new technologies<br>🌟 Open source enthusiast<br>🎯 Aiming to make a positive impact through code<br>
 
 
 ## 🌐 Socials:
