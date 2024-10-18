@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ahmad Midlaj<br>🎓 Full Stack Developer from India<br>💡 Passionate about building innovative solutions<br>🌐 Next JS, React JS Developer<br>📚 Constantly learning and exploring new technologies<br>🌟 Open source enthusiast<br>🎯 Aiming to make a positive impact through code<br>
+👋 Hi, I'm Ahmad Midlaj<br>🎓 Full Stack Developer from India<br>💡 Passionate about building innovative solutions<br>🌐 Web Developer<br>🎯 Next Js,React Js,Prisma,Tailwind Css,Vercel<br>📚 Constantly learning and exploring new technologies<br>🌟 Open source enthusiast<br>🎯 Aiming to make a positive impact through code<br>
 
 
 ## 🌐 Socials:
