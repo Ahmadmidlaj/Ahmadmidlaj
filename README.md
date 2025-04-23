@@ -18,16 +18,16 @@
 - 📫 Reach me at **ahmadmidlaj313@gmail.com**
 
 ##
-In your terminal:
+Try this out in your terminal:
 ```bash
 npx hi-ahmad
 ```
 
 ## 
-### Highlights
+### What am i Doin?
 
-> - 🎯 Aiming to make a positive impact through code
-> - 📝 Check out my projects below!
+> - 🎯 Software Developer at FiND
+> - 📝 Analyst at BIG 4
 
 <br />
 
