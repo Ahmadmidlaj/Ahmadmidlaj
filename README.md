@@ -63,9 +63,7 @@ I'm passionate about creating seamless web experiences and exploring the latest 
 
 <a href="https://github.com/Ahmadmidlaj/github-readme-stats"><img alt="Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmadmidlaj&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" width="450" /></a>
 <a href="https://github.com/Ahmadmidlaj/github-readme-stats"><img alt="Ahmad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadmidlaj&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350" /></a>
-
-[![Ahmad's github activity graph]([https://github-readme-activity-graph.cyclic.app/graph?username=Ahmadmidlaj&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmadmidlaj&theme=gruvbox))
-
+[![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmadmidlaj&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadmidlaj&theme=gruvbox&hide_border=true)
 
 ---
