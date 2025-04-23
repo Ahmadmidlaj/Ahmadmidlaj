@@ -15,12 +15,12 @@
 
 - 🌟 Open source enthusiast
 
-- 📫 Reach me at **youremail@example.com**
+- 📫 Reach me at **ahmadmidlaj313@gmail.com**
 
 ##
 In your terminal:
 ```bash
-npx say-hi-to-ahmad
+npx say-hi-ahmad
 ```
 
 ## 
