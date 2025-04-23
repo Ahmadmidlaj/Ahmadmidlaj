@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ahmadmidlaj&label=Profile%20views&color=d4b3df&style=flat-square" alt="Ahmadmidlaj" /> </p>
 
-<img align="right" alt="coding" height="460px" src="[download (1)](https://github.com/user-attachments/assets/11f034a0-fe3c-4152-ac0d-56263e5162e5)">
+<img align="right" alt="coding" height="460px" src="https://github.com/user-attachments/assets/11f034a0-fe3c-4152-ac0d-56263e5162e5">
 
 - 💡 I love to **BUILD, SHIP, BREAK && REPEAT**
 
