@@ -1,4 +1,3 @@
-![download (1)](https://github.com/user-attachments/assets/1e45afd8-f977-4911-b70d-9a9ba502de12)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmad Midlaj</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
